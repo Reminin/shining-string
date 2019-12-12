@@ -1,0 +1,42 @@
+# Site settings
+title: Shining-string
+tagline: "Shining you string!"
+description: "Shining your string! 기타와 관련된 여러가지 지식과 정보, 최신소식과 리뷰로 당신의 어쿠스틱 기타 라이프를 밝게 비추어드리겠습니다."
+url: "shining-string.com"
+author:
+  name: "레미닌"
+  email: "shykimkr@gmail.com"
+  url: "shinig-string.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: shining-string-com

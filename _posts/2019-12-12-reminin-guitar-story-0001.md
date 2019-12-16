@@ -3,7 +3,7 @@ layout: post
 title: "[레미닌의 기타 썰 1화] 기타와의 만남, 이별 그리고 재회"
 date: 2019-12-12 14:54:00 +09:00
 author: "레미닌"
-permalink: /reminin-guitar-story-01/
+permalink: /reminin-guitar-story-0001/
 image:
   feature: thumbnail01.jpeg
 categories:
@@ -14,7 +14,7 @@ tags:
   - 어쿠스틱기타
   - 기타리페어
   - 기타수리
-description: [레미닌의 기타 썰 1화] 어쿠스틱 기타 블로그를 시작하면서 제가 경험했던 기타와의 첫 만남과 이별, 그리고 재회를 이야기해보려합니다.
+description: "[레미닌의 기타 썰 1화] 어쿠스틱 기타 블로그를 시작하면서 제가 경험했던 기타와의 첫 만남과 이별, 그리고 재회를 이야기해보려합니다."
 ---
 
 #### 안녕하세요,

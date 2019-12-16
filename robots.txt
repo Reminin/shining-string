@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shining-string.com/sitemap.xml
